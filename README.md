@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Kunal Gehlot</h1>
 <h3 align="center">Full-Stack & Backend Developer | Python | Flask | MongoDB | 🎓 CS Student @ Coventry</h3>
 
