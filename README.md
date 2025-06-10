@@ -5,10 +5,10 @@
 
 ### 🏆 Projects
 
-| #  | Hackathon                             | Track   | Achievement                                       | Prize               |
-|----|---------------------------------------|---------|--------------------------------------------------|---------------------|
-| 1  | MQTT Project @ Uni                    | IoT     | Real-time Tracking System                        | 🎓 Academic Project |
-| 2  | Animal Conservation Website           | Web Dev | Promoted Awareness                               | 🎓 Academic Project |
+| #  | Hackathon                             | Track   | Achievement                                      | 
+|----|---------------------------------------|---------|--------------------------------------------------|
+| 1  | MQTT Project @ Uni                    | IoT     | Real-time Tracking System                        | 
+| 2  | Animal Conservation Website           | Web Dev | Promoted Awareness                               | 
 
 
 ---
